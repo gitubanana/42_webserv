@@ -1,6 +1,7 @@
 #include "utils/file.hpp"
 #include <cerrno>
 #include <cstdio>
+#include <string.h>
 #include <dirent.h>
 #include <sys/stat.h>
 
